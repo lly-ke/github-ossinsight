@@ -2,9 +2,9 @@
 // @name                github-ossinsight
 // @namespace           https://github.com/lly-ke/github-ossinsight
 // @version             2022.12.20
-// @description         Add ossinsight jump button to github repository to quickly analyze the health of an open source project for multi-dimensional insight into an open source project
-// @description:zh      github 仓库中添加 ossinsight 跳转按钮, 快速分析开源项目健康状况以便多维度深入探究一个开源项目
-// @description:zh-CN   github 仓库中添加 ossinsight 跳转按钮, 快速分析开源项目健康状况以便多维度深入探究一个开源项目
+// @description         A Tampermonkey script that helps you quickly link to [ossinsight](https://ossinsight.io/) in your GitHub repository to quickly analyze the health of an open source project for more multidimensional insight into an open source project
+// @description:zh      一个 Tampermonkey(油猴) 脚本，它可以帮助您在 GitHub 仓库中快速链接到 [ossinsight](https://ossinsight.io/) ， 以便快速分析开源项目健康状况以更在多维度深入探究一个开源项目
+// @description:zh-CN   一个 Tampermonkey(油猴) 脚本，它可以帮助您在 GitHub 仓库中快速链接到 [ossinsight](https://ossinsight.io/) ， 以便快速分析开源项目健康状况以更在多维度深入探究一个开源项目
 // @author              lly-ke
 // @match               https://github.com/*
 // @icon                https://raw.githubusercontent.com/lly-ke/github-ossinsight/main/images/logo.svg

@@ -1,6 +1,5 @@
 # github-ossinsight
-是一个Tampermonkey(油猴)脚本, 目的是向
-github 仓库中添加 ossinsight 跳转按钮, 快速分析开源项目健康状况以便多维度深入探究一个开源项目
+一个 Tampermonkey(油猴) 脚本，它可以帮助您在 GitHub 仓库中快速链接到 [ossinsight](https://ossinsight.io/) ， 以便快速分析开源项目健康状况以更在多维度深入探究一个开源项目
 
 ## 安装
 
